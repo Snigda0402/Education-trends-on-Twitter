@@ -1,15 +1,15 @@
 # Education trends on Twitter
 
+## Objective : 
+By analyzing a massive collection of education-related tweets, the project explores whether higher tweet volumes correspond to significant trends in the education sector.
+
 ## Skills/Tools Used : 
 
 1. Python Programming Language
 2. PySpark
 3. Google Cloud Platform
 5. Big Data Analysis
-
-## Objective : 
-By analyzing a massive collection of education-related tweets, the project explores whether higher tweet volumes correspond to significant trends in the education sector.
-
+   
 ## Project Overview :
 
 - Performing twitterer identification, location analysis, timeline analysis and tweets
